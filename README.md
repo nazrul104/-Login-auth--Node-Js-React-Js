@@ -1,8 +1,8 @@
 # -Login-auth--Node-Js-React-Js
-go to API Directory run following command:
-npm install
-npm start
+go to API Directory and run following command: 
+$ npm install,
+$ npm start
 
 Open another terminal and go to ReactApp Directory
-npm install
-npm start
+$ npm install,
+$ npm start
